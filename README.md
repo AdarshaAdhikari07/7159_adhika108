@@ -1,5 +1,5 @@
 # Optimization and Machine Learning Work
-This zone holds a set of Jupyter notebooks diving into many optimization ways and machine learning types. All notebooks dig into a unique issue, from well-known operations research jobs to new uses in machine learning and data info.
+This work holds a set of Jupyter notebooks diving into many optimization ways and machine learning types. All notebooks dig into a unique issue, from well-known operations research jobs to new uses in machine learning and data info.
 
 # Overview of Notebooks:
 # 1. Linear Programming for Picking Features and Using Resources
