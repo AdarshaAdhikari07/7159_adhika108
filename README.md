@@ -32,7 +32,7 @@ File: DT_16387836).ipynb
 Description: This notebook tests the quality and guessing of a Linear Congruential Maker (LCG), a kind of pseudo-random number maker. A Decision Tree classifier from scikit-learn is made to guess the next number in a series. The notebook covers tuning for the Decision Tree to see how easy it is to guess the output of the LCG, checking its randomness.
 
 # How to Use
-You can see the notebooks right on GitHub. To run the code and get the same results, you can open them in places like Google Colab or Jupyter Notebook.
+We can see the notebooks right on GitHub. To run the code and get the same results, you can open them in places like Google Colab or Jupyter Notebook.
 
 # Tools Used
 The key Python tools used in these works include:
