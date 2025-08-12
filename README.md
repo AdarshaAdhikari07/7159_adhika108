@@ -12,22 +12,22 @@ Part 1: A deep look at using Integer Linear Programming (ILP) for picking featur
 Part 2: A real use of a known Linear Programming (LP) task, "The Farmer's Problem," to get the most money by using land for different plants under set limits. It uses the pulp tool in Python.
 
 # 2. Reinforcement Learning for Battery Care
-# File: RL_16387836).ipynb
+# File: RL_16387836.ipynb
 
 Description: This notebook gives an important look at the study "Reinforcement Learning for Battery Management in Dairy Farming." It spots the main parts of the RL setup (agent, area, reward) and checks using Q-learning to better use batteries, cut dependence on the grid, and lower electricity bills on a dairy farm.
 
 # 3. Dynamic Programming for the Subset-Sum Issue
-# File: DP_16387836).ipynb
+# File: DP_16387836.ipynb
 
 Description: This notebook looks at the Subset-Sum Problem (SSP), a hard NP-complete task. It sets up and checks a full recursive search way with more able Dynamic Programming ways (both top-down saving and bottom-up building ways) to see if a subset of a set of numbers adds up to a target sum.
 
 # 4. Particle Swarm Optimization for the Traveling Salesman Task
-# File: PS0_16387836).ipynb
+# File: PS0_16387836.ipynb
 
 Description: This work checks how well the Particle Swarm Optimization (PSO) plan works on the Traveling Salesman Task (TSP). It looks at how key PSO parts—inertia mass (w), mind bits (c1), and group bits (c2)—change quality of answers and speed of getting there for different task sizes. The study gives tips for the best settings of parts.
 
 # 5. Decision Trees for Checking a Pseudo-random Number Maker
-File: DT_16387836).ipynb
+File: DT_16387836.ipynb
 
 Description: This notebook tests the quality and guessing of a Linear Congruential Maker (LCG), a kind of pseudo-random number maker. A Decision Tree classifier from scikit-learn is made to guess the next number in a series. The notebook covers tuning for the Decision Tree to see how easy it is to guess the output of the LCG, checking its randomness.
 
