@@ -4,11 +4,11 @@ Mark: %
 
 | Item                     | Mark |
 |:------------------------ | ----:|
-| Article's summary        |   /8 |
-| Mathematical formulation |   /6 |
-| PuLP solution            |   /6 |
+| Article's summary        |  6 /8 |
+| Mathematical formulation | 5  /6 |
+| PuLP solution            |  6 /6 |
 |                          |      |
-| **Total**:               |  /20 |
+| **Total**:               | 17 /20 |
 
 
 ## Dynamic Programming (DP)
