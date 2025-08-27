@@ -1,4 +1,4 @@
-Mark: %
+Mark:73 %
 
 # Linear Programming (LP)
 
@@ -16,11 +16,11 @@ Mark: %
 | Item                            | Mark |
 |:------------------------------- | ----:|
 | Recursive formulation           |  3 /5 |
-| Dynamic Programming formulation |  3 /5 |
+| Dynamic Programming formulation |  4 /5 |
 | Implementation - Memoization    |  3 /5 |
 | Implementation - Bottom-up      |  4 /5 |
 |                                 |      |
-| **Total**:                      | 13 /20 |
+| **Total**:                      | 14 /20 |
 
 
 ## Particle Swarm Optimization (PSO)
@@ -30,9 +30,9 @@ Mark: %
 | Effect of `w`      |  4 /5 |
 | Effect of `c1`     |  4 /5 |
 | Effect of `c2`     |  4 /5 |
-| Overall conclusion |  4 /5 |
+| Overall conclusion |  5 /5 |
 |                    |      |
-| **Total**:         |  16/20 |
+| **Total**:         |  17/20 |
 
 
 ## Decision Trees (DT)
@@ -42,9 +42,9 @@ Mark: %
 | Chosen parameter 1          | 3  /5 |
 | Chosen parameter 2          |  3 /5 |
 | Chosen parameter 3          |  3 /5 |
-| Conclusion & Recommendation |  4 /5 |
+| Conclusion & Recommendation |  5 /5 |
 |                             |      |
-| **Total**:                  | 13 /20 |
+| **Total**:                  | 14 /20 |
 
 
 ## Reinforcement Learning (RL)
